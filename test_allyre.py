@@ -7,7 +7,7 @@ def fu(c):
 data = [{"test":1}]
 @allure.story("测试")
 @pytest.mark.parametrize("test",data)
-def test1(test):
+def test2(test):
     name = test["test"]
     assert fu(name) == 2
     print("===========数据==============")
