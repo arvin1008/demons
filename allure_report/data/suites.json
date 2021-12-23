@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "test_allyre",
+    "children" : [ {
+      "name" : "testkk[test0]",
+      "uid" : "6ceff88be640b788",
+      "parentUid" : "407c9c0d194b711a06c986114c7ed7d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640227036335,
+        "stop" : 1640227036335,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'test': 1}" ]
+    } ],
+    "uid" : "407c9c0d194b711a06c986114c7ed7d6"
+  } ],
+  "name" : "suites"
+}
